@@ -1,0 +1,5 @@
+{
+    "cluster": "mongodb+srv://ndthinhdut19:Aa123456@cluster0.lsdvjor.mongodb.net/PictureFinders",
+    "database": "PictureFinders",
+    "hash_schemes": ["sha256_crypt", "md5_crypt"]
+}
